@@ -1,0 +1,340 @@
+1779413712: mosquitto version 2.1.2 starting
+1779413712: Config loaded from /mosquitto/config/mosquitto.conf.
+1779413712: Bridge support available.
+1779413712: Persistence support available.
+1779413712: TLS support available.
+1779413712: TLS-PSK support available.
+1779413712: Websockets support available.
+1779413712: Opening ipv4 listen socket on port 1883.
+1779413712: Opening ipv6 listen socket on port 1883.
+1779413712: Opening ipv4 listen socket on port 9001.
+1779413712: Opening ipv6 listen socket on port 9001.
+1779413712: mosquitto version 2.1.2 running
+1779413749: New connection from 192.168.65.1:52896 on port 1883.
+1779413749: New client connected from 192.168.65.1:52896 as subscriber-aula (p4, c1, k60).
+1779413750: New connection from 192.168.65.1:27087 on port 1883.
+1779413750: New connection from 192.168.65.1:52862 on port 1883.
+1779413750: New connection from 192.168.65.1:53829 on port 1883.
+1779413750: New client connected from 192.168.65.1:27087 as sensor-temperatura (p4, c1, k60).
+1779413750: New client connected from 192.168.65.1:52862 as sensor-co2 (p4, c1, k60).
+1779413750: New client connected from 192.168.65.1:53829 as sensor-humedad (p4, c1, k60).
+1779413962: New connection from 192.168.65.1:55480 on port 1883.
+1779413962: Client subscriber-aula [192.168.65.1:52896] disconnected: session taken over.
+1779413962: New client connected from 192.168.65.1:55480 as subscriber-aula (p4, c1, k60).
+1779413963: New connection from 192.168.65.1:44590 on port 1883.
+1779413963: New connection from 192.168.65.1:20534 on port 1883.
+1779413963: New connection from 192.168.65.1:41534 on port 1883.
+1779413963: Client sensor-temperatura [192.168.65.1:27087] disconnected: session taken over.
+1779413963: New client connected from 192.168.65.1:44590 as sensor-temperatura (p4, c1, k60).
+1779413963: Client sensor-humedad [192.168.65.1:53829] disconnected: session taken over.
+1779413963: New client connected from 192.168.65.1:20534 as sensor-humedad (p4, c1, k60).
+1779413963: Client sensor-co2 [192.168.65.1:52862] disconnected: session taken over.
+1779413963: New client connected from 192.168.65.1:41534 as sensor-co2 (p4, c1, k60).
+1779413963: New connection from 192.168.65.1:19841 on port 1883.
+1779413963: Client subscriber-aula [192.168.65.1:55480] disconnected: session taken over.
+1779413963: New client connected from 192.168.65.1:19841 as subscriber-aula (p4, c1, k60).
+1779413964: New connection from 192.168.65.1:59680 on port 1883.
+1779413964: New connection from 192.168.65.1:59613 on port 1883.
+1779413964: Client sensor-humedad [192.168.65.1:20534] disconnected: session taken over.
+1779413964: New client connected from 192.168.65.1:59680 as sensor-humedad (p4, c1, k60).
+1779413964: Client sensor-temperatura [192.168.65.1:44590] disconnected: session taken over.
+1779413964: New client connected from 192.168.65.1:59613 as sensor-temperatura (p4, c1, k60).
+1779413964: New connection from 192.168.65.1:33468 on port 1883.
+1779413964: Client sensor-co2 [192.168.65.1:41534] disconnected: session taken over.
+1779413964: New client connected from 192.168.65.1:33468 as sensor-co2 (p4, c1, k60).
+1779413964: New connection from 192.168.65.1:46145 on port 1883.
+1779413964: Client subscriber-aula [192.168.65.1:19841] disconnected: session taken over.
+1779413964: New client connected from 192.168.65.1:46145 as subscriber-aula (p4, c1, k60).
+1779413965: New connection from 192.168.65.1:38356 on port 1883.
+1779413965: New connection from 192.168.65.1:61675 on port 1883.
+1779413965: New connection from 192.168.65.1:57237 on port 1883.
+1779413965: Client sensor-co2 [192.168.65.1:33468] disconnected: session taken over.
+1779413965: New client connected from 192.168.65.1:38356 as sensor-co2 (p4, c1, k60).
+1779413965: Client sensor-temperatura [192.168.65.1:59613] disconnected: session taken over.
+1779413965: New client connected from 192.168.65.1:61675 as sensor-temperatura (p4, c1, k60).
+1779413965: Client sensor-humedad [192.168.65.1:59680] disconnected: session taken over.
+1779413965: New client connected from 192.168.65.1:57237 as sensor-humedad (p4, c1, k60).
+1779413965: New connection from 192.168.65.1:65124 on port 1883.
+1779413965: Client subscriber-aula [192.168.65.1:46145] disconnected: session taken over.
+1779413965: New client connected from 192.168.65.1:65124 as subscriber-aula (p4, c1, k60).
+1779413966: New connection from 192.168.65.1:31836 on port 1883.
+1779413966: New connection from 192.168.65.1:21015 on port 1883.
+1779413966: New connection from 192.168.65.1:40629 on port 1883.
+1779413966: New connection from 192.168.65.1:48447 on port 1883.
+1779413966: Client sensor-co2 [192.168.65.1:38356] disconnected: session taken over.
+1779413966: New client connected from 192.168.65.1:31836 as sensor-co2 (p4, c1, k60).
+1779413966: Client sensor-temperatura [192.168.65.1:61675] disconnected: session taken over.
+1779413966: New client connected from 192.168.65.1:21015 as sensor-temperatura (p4, c1, k60).
+1779413966: Client sensor-humedad [192.168.65.1:57237] disconnected: session taken over.
+1779413966: New client connected from 192.168.65.1:40629 as sensor-humedad (p4, c1, k60).
+1779413966: Client subscriber-aula [192.168.65.1:65124] disconnected: session taken over.
+1779413966: New client connected from 192.168.65.1:48447 as subscriber-aula (p4, c1, k60).
+1779413967: New connection from 192.168.65.1:30237 on port 1883.
+1779413967: Client sensor-co2 [192.168.65.1:31836] disconnected: session taken over.
+1779413967: New client connected from 192.168.65.1:30237 as sensor-co2 (p4, c1, k60).
+1779413967: New connection from 192.168.65.1:43982 on port 1883.
+1779413967: New connection from 192.168.65.1:17589 on port 1883.
+1779413967: New connection from 192.168.65.1:63210 on port 1883.
+1779413967: Client subscriber-aula [192.168.65.1:48447] disconnected: session taken over.
+1779413967: New client connected from 192.168.65.1:43982 as subscriber-aula (p4, c1, k60).
+1779413967: Client sensor-humedad [192.168.65.1:40629] disconnected: session taken over.
+1779413967: New client connected from 192.168.65.1:17589 as sensor-humedad (p4, c1, k60).
+1779413967: Client sensor-temperatura [192.168.65.1:21015] disconnected: session taken over.
+1779413967: New client connected from 192.168.65.1:63210 as sensor-temperatura (p4, c1, k60).
+1779413968: New connection from 192.168.65.1:61090 on port 1883.
+1779413968: New connection from 192.168.65.1:53776 on port 1883.
+1779413968: New connection from 192.168.65.1:22916 on port 1883.
+1779413968: New connection from 192.168.65.1:45525 on port 1883.
+1779413968: Client sensor-co2 [192.168.65.1:30237] disconnected: session taken over.
+1779413968: New client connected from 192.168.65.1:61090 as sensor-co2 (p4, c1, k60).
+1779413968: Client subscriber-aula [192.168.65.1:43982] disconnected: session taken over.
+1779413968: New client connected from 192.168.65.1:53776 as subscriber-aula (p4, c1, k60).
+1779413968: Client sensor-humedad [192.168.65.1:17589] disconnected: session taken over.
+1779413968: New client connected from 192.168.65.1:22916 as sensor-humedad (p4, c1, k60).
+1779413968: Client sensor-temperatura [192.168.65.1:63210] disconnected: session taken over.
+1779413968: New client connected from 192.168.65.1:45525 as sensor-temperatura (p4, c1, k60).
+1779413969: New connection from 192.168.65.1:46710 on port 1883.
+1779413969: New connection from 192.168.65.1:32397 on port 1883.
+1779413969: New connection from 192.168.65.1:46977 on port 1883.
+1779413969: Client subscriber-aula [192.168.65.1:53776] disconnected: session taken over.
+1779413969: New client connected from 192.168.65.1:46710 as subscriber-aula (p4, c1, k60).
+1779413969: Client sensor-temperatura [192.168.65.1:45525] disconnected: session taken over.
+1779413969: New client connected from 192.168.65.1:32397 as sensor-temperatura (p4, c1, k60).
+1779413969: Client sensor-co2 [192.168.65.1:61090] disconnected: session taken over.
+1779413969: New client connected from 192.168.65.1:46977 as sensor-co2 (p4, c1, k60).
+1779413969: New connection from 192.168.65.1:59296 on port 1883.
+1779413969: Client sensor-humedad [192.168.65.1:22916] disconnected: session taken over.
+1779413969: New client connected from 192.168.65.1:59296 as sensor-humedad (p4, c1, k60).
+1779413970: New connection from 192.168.65.1:45702 on port 1883.
+1779413970: New connection from 192.168.65.1:31686 on port 1883.
+1779413970: New connection from 192.168.65.1:52108 on port 1883.
+1779413970: New connection from 192.168.65.1:26050 on port 1883.
+1779413970: Client sensor-co2 [192.168.65.1:46977] disconnected: session taken over.
+1779413970: New client connected from 192.168.65.1:45702 as sensor-co2 (p4, c1, k60).
+1779413970: Client sensor-temperatura [192.168.65.1:32397] disconnected: session taken over.
+1779413970: New client connected from 192.168.65.1:31686 as sensor-temperatura (p4, c1, k60).
+1779413970: Client subscriber-aula [192.168.65.1:46710] disconnected: session taken over.
+1779413970: New client connected from 192.168.65.1:52108 as subscriber-aula (p4, c1, k60).
+1779413970: Client sensor-humedad [192.168.65.1:59296] disconnected: session taken over.
+1779413970: New client connected from 192.168.65.1:26050 as sensor-humedad (p4, c1, k60).
+1779413971: New connection from 192.168.65.1:23277 on port 1883.
+1779413971: Client sensor-temperatura [192.168.65.1:31686] disconnected: session taken over.
+1779413971: New client connected from 192.168.65.1:23277 as sensor-temperatura (p4, c1, k60).
+1779413971: New connection from 192.168.65.1:52484 on port 1883.
+1779413971: New connection from 192.168.65.1:47050 on port 1883.
+1779413971: New connection from 192.168.65.1:52574 on port 1883.
+1779413971: Client sensor-co2 [192.168.65.1:45702] disconnected: session taken over.
+1779413971: New client connected from 192.168.65.1:52484 as sensor-co2 (p4, c1, k60).
+1779413971: Client subscriber-aula [192.168.65.1:52108] disconnected: session taken over.
+1779413971: New client connected from 192.168.65.1:47050 as subscriber-aula (p4, c1, k60).
+1779413971: Client sensor-humedad [192.168.65.1:26050] disconnected: session taken over.
+1779413971: New client connected from 192.168.65.1:52574 as sensor-humedad (p4, c1, k60).
+1779413972: New connection from 192.168.65.1:19494 on port 1883.
+1779413972: New connection from 192.168.65.1:53324 on port 1883.
+1779413972: Client sensor-temperatura [192.168.65.1:23277] disconnected: session taken over.
+1779413972: New client connected from 192.168.65.1:19494 as sensor-temperatura (p4, c1, k60).
+1779413972: Client subscriber-aula [192.168.65.1:47050] disconnected: session taken over.
+1779413972: New client connected from 192.168.65.1:53324 as subscriber-aula (p4, c1, k60).
+1779413972: New connection from 192.168.65.1:55920 on port 1883.
+1779413972: New connection from 192.168.65.1:34375 on port 1883.
+1779413972: Client sensor-co2 [192.168.65.1:52484] disconnected: session taken over.
+1779413972: New client connected from 192.168.65.1:55920 as sensor-co2 (p4, c1, k60).
+1779413972: Client sensor-humedad [192.168.65.1:52574] disconnected: session taken over.
+1779413972: New client connected from 192.168.65.1:34375 as sensor-humedad (p4, c1, k60).
+1779413973: New connection from 192.168.65.1:63333 on port 1883.
+1779413973: New connection from 192.168.65.1:29763 on port 1883.
+1779413973: New connection from 192.168.65.1:54298 on port 1883.
+1779413973: New connection from 192.168.65.1:17646 on port 1883.
+1779413973: Client subscriber-aula [192.168.65.1:53324] disconnected: session taken over.
+1779413973: New client connected from 192.168.65.1:63333 as subscriber-aula (p4, c1, k60).
+1779413973: Client sensor-temperatura [192.168.65.1:19494] disconnected: session taken over.
+1779413973: New client connected from 192.168.65.1:29763 as sensor-temperatura (p4, c1, k60).
+1779413973: Client sensor-co2 [192.168.65.1:55920] disconnected: session taken over.
+1779413973: New client connected from 192.168.65.1:54298 as sensor-co2 (p4, c1, k60).
+1779413973: Client sensor-humedad [192.168.65.1:34375] disconnected: session taken over.
+1779413973: New client connected from 192.168.65.1:17646 as sensor-humedad (p4, c1, k60).
+1779413974: Client sensor-temperatura [192.168.65.1:29763] disconnected: connection closed by client.
+1779413974: Client sensor-humedad [192.168.65.1:17646] disconnected: connection closed by client.
+1779413974: Client sensor-co2 [192.168.65.1:54298] disconnected: connection closed by client.
+1779413974: New connection from 192.168.65.1:21190 on port 1883.
+1779413974: New client connected from 192.168.65.1:21190 as sensor-temperatura (p4, c1, k60).
+1779413974: New connection from 192.168.65.1:58478 on port 1883.
+1779413974: New client connected from 192.168.65.1:58478 as sensor-co2 (p4, c1, k60).
+1779413974: New connection from 192.168.65.1:60980 on port 1883.
+1779413974: New client connected from 192.168.65.1:60980 as sensor-humedad (p4, c1, k60).
+1779414145: New connection from 192.168.65.1:44010 on port 1883.
+1779414145: Client subscriber-aula [192.168.65.1:63333] disconnected: session taken over.
+1779414145: New client connected from 192.168.65.1:44010 as subscriber-aula (p4, c1, k60).
+1779414146: New connection from 192.168.65.1:18527 on port 1883.
+1779414146: New connection from 192.168.65.1:49134 on port 1883.
+1779414146: New connection from 192.168.65.1:26085 on port 1883.
+1779414146: Client sensor-temperatura [192.168.65.1:21190] disconnected: session taken over.
+1779414146: New client connected from 192.168.65.1:18527 as sensor-temperatura (p4, c1, k60).
+1779414146: Client sensor-co2 [192.168.65.1:58478] disconnected: session taken over.
+1779414146: New client connected from 192.168.65.1:49134 as sensor-co2 (p4, c1, k60).
+1779414146: Client sensor-humedad [192.168.65.1:60980] disconnected: session taken over.
+1779414146: New client connected from 192.168.65.1:26085 as sensor-humedad (p4, c1, k60).
+1779414146: New connection from 192.168.65.1:16776 on port 1883.
+1779414146: Client subscriber-aula [192.168.65.1:44010] disconnected: session taken over.
+1779414146: New client connected from 192.168.65.1:16776 as subscriber-aula (p4, c1, k60).
+1779414147: New connection from 192.168.65.1:18836 on port 1883.
+1779414147: New connection from 192.168.65.1:57384 on port 1883.
+1779414147: New connection from 192.168.65.1:56541 on port 1883.
+1779414147: Client sensor-temperatura [192.168.65.1:18527] disconnected: session taken over.
+1779414147: New client connected from 192.168.65.1:18836 as sensor-temperatura (p4, c1, k60).
+1779414147: Client sensor-co2 [192.168.65.1:49134] disconnected: session taken over.
+1779414147: New client connected from 192.168.65.1:57384 as sensor-co2 (p4, c1, k60).
+1779414147: Client sensor-humedad [192.168.65.1:26085] disconnected: session taken over.
+1779414147: New client connected from 192.168.65.1:56541 as sensor-humedad (p4, c1, k60).
+1779414147: New connection from 192.168.65.1:32629 on port 1883.
+1779414147: Client subscriber-aula [192.168.65.1:16776] disconnected: session taken over.
+1779414147: New client connected from 192.168.65.1:32629 as subscriber-aula (p4, c1, k60).
+1779414148: New connection from 192.168.65.1:23324 on port 1883.
+1779414148: New connection from 192.168.65.1:25470 on port 1883.
+1779414148: New connection from 192.168.65.1:61617 on port 1883.
+1779414148: New connection from 192.168.65.1:59963 on port 1883.
+1779414148: Client sensor-temperatura [192.168.65.1:18836] disconnected: session taken over.
+1779414148: New client connected from 192.168.65.1:23324 as sensor-temperatura (p4, c1, k60).
+1779414148: Client sensor-co2 [192.168.65.1:57384] disconnected: session taken over.
+1779414148: New client connected from 192.168.65.1:25470 as sensor-co2 (p4, c1, k60).
+1779414148: Client subscriber-aula [192.168.65.1:32629] disconnected: session taken over.
+1779414148: New client connected from 192.168.65.1:61617 as subscriber-aula (p4, c1, k60).
+1779414148: Client sensor-humedad [192.168.65.1:56541] disconnected: session taken over.
+1779414148: New client connected from 192.168.65.1:59963 as sensor-humedad (p4, c1, k60).
+1779414149: New connection from 192.168.65.1:18591 on port 1883.
+1779414149: New connection from 192.168.65.1:53378 on port 1883.
+1779414149: New connection from 192.168.65.1:59270 on port 1883.
+1779414149: New connection from 192.168.65.1:34101 on port 1883.
+1779414149: Client sensor-co2 [192.168.65.1:25470] disconnected: session taken over.
+1779414149: New client connected from 192.168.65.1:18591 as sensor-co2 (p4, c1, k60).
+1779414149: Client subscriber-aula [192.168.65.1:61617] disconnected: session taken over.
+1779414149: New client connected from 192.168.65.1:53378 as subscriber-aula (p4, c1, k60).
+1779414149: Client sensor-temperatura [192.168.65.1:23324] disconnected: session taken over.
+1779414149: New client connected from 192.168.65.1:59270 as sensor-temperatura (p4, c1, k60).
+1779414149: Client sensor-humedad [192.168.65.1:59963] disconnected: session taken over.
+1779414149: New client connected from 192.168.65.1:34101 as sensor-humedad (p4, c1, k60).
+1779414150: New connection from 192.168.65.1:24945 on port 1883.
+1779414150: New connection from 192.168.65.1:36203 on port 1883.
+1779414150: Client sensor-co2 [192.168.65.1:18591] disconnected: session taken over.
+1779414150: New client connected from 192.168.65.1:24945 as sensor-co2 (p4, c1, k60).
+1779414150: Client sensor-temperatura [192.168.65.1:59270] disconnected: session taken over.
+1779414150: New client connected from 192.168.65.1:36203 as sensor-temperatura (p4, c1, k60).
+1779414150: New connection from 192.168.65.1:17107 on port 1883.
+1779414150: New connection from 192.168.65.1:38026 on port 1883.
+1779414150: Client subscriber-aula [192.168.65.1:53378] disconnected: session taken over.
+1779414150: New client connected from 192.168.65.1:17107 as subscriber-aula (p4, c1, k60).
+1779414150: Client sensor-humedad [192.168.65.1:34101] disconnected: session taken over.
+1779414150: New client connected from 192.168.65.1:38026 as sensor-humedad (p4, c1, k60).
+1779414151: New connection from 192.168.65.1:17293 on port 1883.
+1779414151: New connection from 192.168.65.1:34711 on port 1883.
+1779414151: New connection from 192.168.65.1:40261 on port 1883.
+1779414151: New connection from 192.168.65.1:39710 on port 1883.
+1779414151: Client sensor-temperatura [192.168.65.1:36203] disconnected: session taken over.
+1779414151: New client connected from 192.168.65.1:17293 as sensor-temperatura (p4, c1, k60).
+1779414151: Client sensor-co2 [192.168.65.1:24945] disconnected: session taken over.
+1779414151: New client connected from 192.168.65.1:34711 as sensor-co2 (p4, c1, k60).
+1779414151: Client subscriber-aula [192.168.65.1:17107] disconnected: session taken over.
+1779414151: New client connected from 192.168.65.1:40261 as subscriber-aula (p4, c1, k60).
+1779414151: Client sensor-humedad [192.168.65.1:38026] disconnected: session taken over.
+1779414151: New client connected from 192.168.65.1:39710 as sensor-humedad (p4, c1, k60).
+1779414152: New connection from 192.168.65.1:58236 on port 1883.
+1779414152: New connection from 192.168.65.1:28045 on port 1883.
+1779414152: New connection from 192.168.65.1:20419 on port 1883.
+1779414152: Client sensor-temperatura [192.168.65.1:17293] disconnected: session taken over.
+1779414152: New client connected from 192.168.65.1:58236 as sensor-temperatura (p4, c1, k60).
+1779414152: Client subscriber-aula [192.168.65.1:40261] disconnected: session taken over.
+1779414152: New client connected from 192.168.65.1:28045 as subscriber-aula (p4, c1, k60).
+1779414152: Client sensor-co2 [192.168.65.1:34711] disconnected: session taken over.
+1779414152: New client connected from 192.168.65.1:20419 as sensor-co2 (p4, c1, k60).
+1779414152: New connection from 192.168.65.1:17499 on port 1883.
+1779414152: Client sensor-humedad [192.168.65.1:39710] disconnected: session taken over.
+1779414152: New client connected from 192.168.65.1:17499 as sensor-humedad (p4, c1, k60).
+1779414153: New connection from 192.168.65.1:33244 on port 1883.
+1779414153: New connection from 192.168.65.1:42930 on port 1883.
+1779414153: New connection from 192.168.65.1:16867 on port 1883.
+1779414153: New connection from 192.168.65.1:23383 on port 1883.
+1779414153: Client sensor-temperatura [192.168.65.1:58236] disconnected: session taken over.
+1779414153: New client connected from 192.168.65.1:33244 as sensor-temperatura (p4, c1, k60).
+1779414153: Client subscriber-aula [192.168.65.1:28045] disconnected: session taken over.
+1779414153: New client connected from 192.168.65.1:42930 as subscriber-aula (p4, c1, k60).
+1779414153: Client sensor-co2 [192.168.65.1:20419] disconnected: session taken over.
+1779414153: New client connected from 192.168.65.1:16867 as sensor-co2 (p4, c1, k60).
+1779414153: Client sensor-humedad [192.168.65.1:17499] disconnected: session taken over.
+1779414153: New client connected from 192.168.65.1:23383 as sensor-humedad (p4, c1, k60).
+1779414154: New connection from 192.168.65.1:36353 on port 1883.
+1779414154: Client sensor-temperatura [192.168.65.1:33244] disconnected: session taken over.
+1779414154: New client connected from 192.168.65.1:36353 as sensor-temperatura (p4, c1, k60).
+1779414154: New connection from 192.168.65.1:58284 on port 1883.
+1779414154: New connection from 192.168.65.1:62206 on port 1883.
+1779414154: Client subscriber-aula [192.168.65.1:42930] disconnected: session taken over.
+1779414154: New client connected from 192.168.65.1:58284 as subscriber-aula (p4, c1, k60).
+1779414154: Client sensor-co2 [192.168.65.1:16867] disconnected: session taken over.
+1779414154: New client connected from 192.168.65.1:62206 as sensor-co2 (p4, c1, k60).
+1779414154: New connection from 192.168.65.1:18344 on port 1883.
+1779414154: Client sensor-humedad [192.168.65.1:23383] disconnected: session taken over.
+1779414154: New client connected from 192.168.65.1:18344 as sensor-humedad (p4, c1, k60).
+1779414155: New connection from 192.168.65.1:20727 on port 1883.
+1779414155: Client sensor-temperatura [192.168.65.1:36353] disconnected: session taken over.
+1779414155: New client connected from 192.168.65.1:20727 as sensor-temperatura (p4, c1, k60).
+1779414155: New connection from 192.168.65.1:52926 on port 1883.
+1779414155: New connection from 192.168.65.1:50401 on port 1883.
+1779414155: Client subscriber-aula [192.168.65.1:58284] disconnected: session taken over.
+1779414155: New client connected from 192.168.65.1:52926 as subscriber-aula (p4, c1, k60).
+1779414155: Client sensor-co2 [192.168.65.1:62206] disconnected: session taken over.
+1779414155: New client connected from 192.168.65.1:50401 as sensor-co2 (p4, c1, k60).
+1779414155: New connection from 192.168.65.1:20092 on port 1883.
+1779414155: Client sensor-humedad [192.168.65.1:18344] disconnected: session taken over.
+1779414155: New client connected from 192.168.65.1:20092 as sensor-humedad (p4, c1, k60).
+1779414156: New connection from 192.168.65.1:38604 on port 1883.
+1779414156: Client sensor-temperatura [192.168.65.1:20727] disconnected: session taken over.
+1779414156: New client connected from 192.168.65.1:38604 as sensor-temperatura (p4, c1, k60).
+1779414156: New connection from 192.168.65.1:43197 on port 1883.
+1779414156: Client subscriber-aula [192.168.65.1:52926] disconnected: session taken over.
+1779414156: New client connected from 192.168.65.1:43197 as subscriber-aula (p4, c1, k60).
+1779414156: New connection from 192.168.65.1:42889 on port 1883.
+1779414156: New connection from 192.168.65.1:24127 on port 1883.
+1779414156: Client sensor-co2 [192.168.65.1:50401] disconnected: session taken over.
+1779414156: New client connected from 192.168.65.1:42889 as sensor-co2 (p4, c1, k60).
+1779414156: Client sensor-humedad [192.168.65.1:20092] disconnected: session taken over.
+1779414156: New client connected from 192.168.65.1:24127 as sensor-humedad (p4, c1, k60).
+1779414157: New connection from 192.168.65.1:33595 on port 1883.
+1779414157: New connection from 192.168.65.1:45654 on port 1883.
+1779414157: Client sensor-temperatura [192.168.65.1:38604] disconnected: session taken over.
+1779414157: New client connected from 192.168.65.1:33595 as sensor-temperatura (p4, c1, k60).
+1779414157: Client subscriber-aula [192.168.65.1:43197] disconnected: session taken over.
+1779414157: New client connected from 192.168.65.1:45654 as subscriber-aula (p4, c1, k60).
+1779414157: New connection from 192.168.65.1:46816 on port 1883.
+1779414157: Client sensor-co2 [192.168.65.1:42889] disconnected: session taken over.
+1779414157: New client connected from 192.168.65.1:46816 as sensor-co2 (p4, c1, k60).
+1779414157: New connection from 192.168.65.1:19898 on port 1883.
+1779414157: Client sensor-humedad [192.168.65.1:24127] disconnected: session taken over.
+1779414157: New client connected from 192.168.65.1:19898 as sensor-humedad (p4, c1, k60).
+1779414158: New connection from 192.168.65.1:31944 on port 1883.
+1779414158: New connection from 192.168.65.1:33526 on port 1883.
+1779414158: New connection from 192.168.65.1:20857 on port 1883.
+1779414158: Client subscriber-aula [192.168.65.1:45654] disconnected: session taken over.
+1779414158: New client connected from 192.168.65.1:31944 as subscriber-aula (p4, c1, k60).
+1779414158: Client sensor-temperatura [192.168.65.1:33595] disconnected: session taken over.
+1779414158: New client connected from 192.168.65.1:33526 as sensor-temperatura (p4, c1, k60).
+1779414158: Client sensor-co2 [192.168.65.1:46816] disconnected: session taken over.
+1779414158: New client connected from 192.168.65.1:20857 as sensor-co2 (p4, c1, k60).
+1779414158: New connection from 192.168.65.1:56727 on port 1883.
+1779414158: Client sensor-humedad [192.168.65.1:19898] disconnected: session taken over.
+1779414158: New client connected from 192.168.65.1:56727 as sensor-humedad (p4, c1, k60).
+1779414159: New connection from 192.168.65.1:19804 on port 1883.
+1779414159: New connection from 192.168.65.1:59531 on port 1883.
+1779414159: New connection from 192.168.65.1:16653 on port 1883.
+1779414159: New connection from 192.168.65.1:22362 on port 1883.
+1779414159: Client sensor-temperatura [192.168.65.1:33526] disconnected: session taken over.
+1779414159: New client connected from 192.168.65.1:19804 as sensor-temperatura (p4, c1, k60).
+1779414159: Client subscriber-aula [192.168.65.1:31944] disconnected: session taken over.
+1779414159: New client connected from 192.168.65.1:59531 as subscriber-aula (p4, c1, k60).
+1779414159: Client sensor-co2 [192.168.65.1:20857] disconnected: session taken over.
+1779414159: New client connected from 192.168.65.1:16653 as sensor-co2 (p4, c1, k60).
+1779414159: Client sensor-humedad [192.168.65.1:56727] disconnected: session taken over.
+1779414159: New client connected from 192.168.65.1:22362 as sensor-humedad (p4, c1, k60).
+1779414160: Client subscriber-aula [192.168.65.1:59531] disconnected: connection closed by client.
+1779414160: New connection from 192.168.65.1:32458 on port 1883.
+1779414160: New client connected from 192.168.65.1:32458 as subscriber-aula (p4, c1, k60).
+1779414162: mosquitto version 2.1.2 terminating
+1779414162: Saving in-memory database to /mosquitto/data/mosquitto.db.
