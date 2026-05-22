@@ -1,0 +1,48 @@
+1779408148: mosquitto version 2.1.2 starting
+1779408148: Config loaded from /mosquitto/config/mosquitto.conf.
+1779408148: Bridge support available.
+1779408148: Persistence support available.
+1779408148: TLS support available.
+1779408148: TLS-PSK support available.
+1779408148: Websockets support available.
+1779408148: Opening ipv4 listen socket on port 1883.
+1779408148: Opening ipv6 listen socket on port 1883.
+1779408148: Opening ipv4 listen socket on port 9001.
+1779408148: Opening ipv6 listen socket on port 9001.
+1779408148: mosquitto version 2.1.2 running
+1779408432: New connection from ::1:50174 on port 1883.
+1779408432: New client connected from ::1:50174 as auto-F70AB297-9F28-C5EF-6652-1429BA3A645D (p4, c1, k60).
+1779408458: New connection from ::1:32784 on port 1883.
+1779408458: New client connected from ::1:32784 as auto-F7C86619-C1A9-BCC2-999D-0A64FE3E3DDC (p4, c1, k60).
+1779408458: Client auto-F7C86619-C1A9-BCC2-999D-0A64FE3E3DDC [::1:32784] disconnected.
+1779408466: New connection from ::1:59700 on port 1883.
+1779408466: New client connected from ::1:59700 as auto-FED3566E-52FE-4E2D-253A-01D21DEAF033 (p4, c1, k60).
+1779408466: Client auto-FED3566E-52FE-4E2D-253A-01D21DEAF033 [::1:59700] disconnected.
+1779408572: Client auto-F70AB297-9F28-C5EF-6652-1429BA3A645D [::1:50174] disconnected.
+1779408576: New connection from ::1:43470 on port 1883.
+1779408576: New client connected from ::1:43470 as auto-FD3E387F-9857-4E1B-F8BF-F8DCE8966663 (p4, c1, k60).
+1779408589: New connection from ::1:36388 on port 1883.
+1779408589: New client connected from ::1:36388 as auto-5A6DD76B-7F5D-29EE-3490-9E5138116FE6 (p4, c1, k60).
+1779408589: Client auto-5A6DD76B-7F5D-29EE-3490-9E5138116FE6 [::1:36388] disconnected.
+1779408631: New connection from ::1:39596 on port 1883.
+1779408631: New client connected from ::1:39596 as auto-B4F6F2F0-7C38-C012-C68E-31BEB9604E4B (p4, c1, k60).
+1779408631: Client auto-B4F6F2F0-7C38-C012-C68E-31BEB9604E4B [::1:39596] disconnected.
+1779408639: New connection from ::1:47722 on port 1883.
+1779408639: New client connected from ::1:47722 as auto-16A3B171-1E07-E8E8-19CC-1F31906031FE (p4, c1, k60).
+1779408639: Client auto-16A3B171-1E07-E8E8-19CC-1F31906031FE [::1:47722] disconnected.
+1779408727: New connection from ::1:46316 on port 1883.
+1779408727: New client connected from ::1:46316 as auto-25027AA6-2BCF-8F94-43CD-CC0B22E56295 (p4, c1, k60).
+1779408727: Client auto-25027AA6-2BCF-8F94-43CD-CC0B22E56295 [::1:46316] disconnected.
+1779408842: New connection from ::1:56172 on port 1883.
+1779408842: New client connected from ::1:56172 as auto-7C4BD859-1859-BE37-1671-777CAA94D620 (p4, c1, k60).
+1779408846: Client auto-7C4BD859-1859-BE37-1671-777CAA94D620 [::1:56172] disconnected.
+1779408852: Client auto-FD3E387F-9857-4E1B-F8BF-F8DCE8966663 [::1:43470] disconnected.
+1779408858: New connection from ::1:43294 on port 1883.
+1779408858: New client connected from ::1:43294 as auto-A35E4F24-0A8C-D070-D258-870F7E1EC00B (p4, c1, k60).
+1779408887: Client auto-A35E4F24-0A8C-D070-D258-870F7E1EC00B [::1:43294] disconnected.
+1779409204: New connection from ::1:36522 on port 1883.
+1779409204: New client connected from ::1:36522 as auto-C6287F68-C01E-6272-B414-6504641EEB66 (p4, c1, k60).
+1779409216: New connection from 172.22.0.1:42528 on port 1883.
+1779409216: New client connected from 172.22.0.1:42528 as auto-22B7BA39-5919-A035-56C8-76661F234369 (p4, c1, k60).
+1779409216: Client auto-22B7BA39-5919-A035-56C8-76661F234369 [172.22.0.1:42528] disconnected.
+1779410004: Saving in-memory database to /mosquitto/data/mosquitto.db.
